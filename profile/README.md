@@ -1,28 +1,57 @@
-# HASS.Agent
+<p align="center">
+  <a href="https://github.com/LAB02-Research/HASS.Agent">
+    <img src="https://github.com/hass-agent/hass-agent.github.io/blob/efe9a310444878019f9d769fa914a7843b27b018/docs/assets/images/logo/logo_256.png"  alt="HASS.Agent" class="logo" />
+  </a>
+</p>
+<p align="center">
+  <strong>
+    🛰 Download the latest version  
+    <a href="https://github.com/hass-agent/HASS.Agent/releases/latest/download/HASS.Agent.Installer.exe">here</a>
+  </strong>
+</p>
+<p align="center">
+  <strong>
+    📚 Checkout the documentation   
+    <a href="https://hass-agent.github.io/">here</a>
+  </strong>
+</p>
+<p align="center">
+  <strong>
+    💬 Join the discord server   
+    <a href="https://discord.com/invite/JfZj98xqJr">here</a>
+  </strong>
+</p>
+<br clear="left" />
 
-Welcome to the HASS.Agent GitHub organization! This organization hosts various repositories related to HASS.Agent, including documentation, the client, and integration modules.
+# HASS.Agent Organization 🚀
 
-## Repositories
+Welcome to the official GitHub organization for HASS.Agent!
 
-### Documentation
-- [HASS.Agent Documentation](https://github.com/hass-agent/hass-agent.github.io): This repository contains the official documentation for HASS.Agent. You can access the latest documentation [here](https://hass-agent.github.io/latest/).
+## About HASS.Agent
 
-### Client
-- [HASS.Agent Client](https://github.com/hass-agent/HASS.Agent): The official client for HASS.Agent. This repository holds the codebase for the client application.
+HASS.Agent is a powerful tool for integrating Home Assistant with Windows environments, providing seamless automation capabilities.
 
-### Integration
-- [HASS.Agent Integration](https://github.com/hass-agent/integration): The Integration for HASS.Agent can be found in this repository. This codebase runs the Homeassistant integration that connects to HASS.Agent.
+## 📁 Repositories
 
-## Getting Started
-If you are new to HASS.Agent, check out the [documentation](https://hass-agent.github.io/latest/) for comprehensive guides on installation, configuration, and usage.
+Explore our projects and contributions:
 
-## Contributing
-We welcome contributions from the community! If you would like to contribute to any of the repositories in this organization, please checkout our [contribution information](https://hass-agent.github.io/latest/contributing/).
+- [HASS.Agent Core](https://github.com/hass-agent/hass.agent): The core of HASS.Agent, delivering automation on Windows.
+- [HASS.Agent Documentation](https://github.com/hass-agent/hass-agent.github.io): Revamped documentation to guide you through HASS.Agent's features.
+- [HASS.Agent Integration](https://github.com/hass-agent/integration): The Home Asistant integration that connects your HASS.Agent installation to Home Assistant.
 
-## Support
-If you have questions, issues, or need assistance, feel free to open an issue in the respective repository or join our [Discord server](https://discord.com/invite/nMvqzwrVBU) for community support.
+## 🌐 Connect with Us
 
-## License
-All repositories in this organization are licensed under the [MIT License](LICENSE).
+- [Website](https://hass-agent.github.io/)
+- [Discord Server](https://discord.com/invite/JfZj98xqJr)
 
-Thank you for being a part of the HASS.Agent community!
+## 🚀 Contributions
+
+We welcome contributions and bug reports! Check out our [Contribution Homepage](https://hass-agent.github.io/latest/contributing/) for details.
+
+## 📜 License
+
+HASS.Agent is licensed under the MIT License.
+
+Join us in the journey of automating Windows with HASS.Agent!
+
+Happy automating! 🤖✨
