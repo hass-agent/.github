@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/LAB02-Research/HASS.Agent">
+  <a href="https://github.com/hass-agent/HASS.Agent">
     <img src="https://github.com/hass-agent/hass-agent.github.io/blob/efe9a310444878019f9d769fa914a7843b27b018/docs/assets/images/logo/logo_256.png"  alt="HASS.Agent" class="logo" />
   </a>
 </p>
@@ -12,7 +12,7 @@
 <p align="center">
   <strong>
     📚 Checkout the documentation   
-    <a href="https://hass-agent.github.io/">here</a>
+    <a href="https://hass-agent.io/">here</a>
   </strong>
 </p>
 <p align="center">
@@ -41,12 +41,12 @@ Explore our projects and contributions:
 
 ## 🌐 Connect with Us
 
-- [Website](https://hass-agent.github.io/)
+- [Website](https://hass-agent.io/)
 - [Discord Server](https://discord.com/invite/JfZj98xqJr)
 
 ## 🚀 Contributions
 
-We welcome contributions and bug reports! Check out our [Contribution Homepage](https://hass-agent.github.io/latest/contributing/) for details.
+We welcome contributions and bug reports! Check out our [Contribution Homepage](https://hass-agent.io/latest/contributing/) for details.
 
 ## 📜 License
 
