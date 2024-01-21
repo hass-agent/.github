@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/hass-agent/HASS.Agent">
-    <img src="https://github.com/hass-agent/hass-agent.github.io/blob/efe9a310444878019f9d769fa914a7843b27b018/docs/assets/images/logo/logo_256.png"  alt="HASS.Agent" class="logo" />
+    <img src="readme/logo-256.jpg"  alt="HASS.Agent" class="logo" />
   </a>
 </p>
 <p align="center">
@@ -35,14 +35,14 @@ HASS.Agent is a powerful tool for integrating Home Assistant with Windows enviro
 
 Explore our projects and contributions:
 
-- [HASS.Agent Core](https://github.com/hass-agent/hass.agent): The core of HASS.Agent, delivering automation on Windows.
-- [HASS.Agent Documentation](https://github.com/hass-agent/hass.agent-documentation): Revamped documentation to guide you through HASS.Agent's features.
-- [HASS.Agent Integration](https://github.com/hass-agent/HASS.Agent-Integration): The Home Asistant integration that connects your HASS.Agent installation to Home Assistant.
+-   [HASS.Agent Core](https://github.com/hass-agent/hass.agent): The core of HASS.Agent, delivering automation on Windows.
+-   [HASS.Agent Documentation](https://github.com/hass-agent/hass.agent-documentation): Revamped documentation to guide you through HASS.Agent's features.
+-   [HASS.Agent Integration](https://github.com/hass-agent/HASS.Agent-Integration): The Home Asistant integration that connects your HASS.Agent installation to Home Assistant.
 
 ## 🌐 Connect with Us
 
-- [Website](https://hass-agent.io/)
-- [Discord Server](https://discord.com/invite/JfZj98xqJr)
+-   [Website](https://hass-agent.io/)
+-   [Discord Server](https://discord.com/invite/JfZj98xqJr)
 
 ## 🚀 Contributions
 
