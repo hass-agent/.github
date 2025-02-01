@@ -36,7 +36,7 @@ HASS.Agent is a powerful tool for integrating Home Assistant with Windows enviro
 Explore our projects and contributions:
 
 -   [HASS.Agent Core](https://github.com/hass-agent/hass.agent): The core of HASS.Agent, delivering automation on Windows.
--   [HASS.Agent Documentation](https://github.com/hass-agent/hass.agent-documentation): Revamped documentation to guide you through HASS.Agent's features.
+-   [HASS.Agent Documentation](https://github.com/hass-agent/hass.agent-documentation): Documentation to guide you through HASS.Agent's features.
 -   [HASS.Agent Integration](https://github.com/hass-agent/HASS.Agent-Integration): The Home Asistant integration that connects your HASS.Agent installation to Home Assistant.
 
 ## 🌐 Connect with Us
